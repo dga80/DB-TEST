@@ -12,7 +12,6 @@ module.exports = {
         test: /\.html$/, // Regla para archivos HTML
         use: ['html-loader'], // Cargador para procesar el HTML
       },
-      // Puedes agregar más reglas aquí para otros tipos de archivos si es necesario
     ],
   },
 };
